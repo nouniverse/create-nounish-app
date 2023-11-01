@@ -3,6 +3,9 @@
   "version": "1.0.0-alpha.0",
   "description": "A package to create a Nounish app",
   "main": "dist/index.js",
+  "bin": {
+    "create-nounish-app": "./dist/index.js"
+  },
   "scripts": {
     "build": "tsc",
     "create": "ts-node src/index.ts",
