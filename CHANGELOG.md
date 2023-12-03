@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.2] - 2023-12-03
+
+### Miscellaneous Tasks
+
+- Add `.editorconfig` file for consistent coding styles
+
 ## [1.0.0-alpha.1] - 2023-11-01
 
 ### Documentation

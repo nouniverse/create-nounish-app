@@ -1,6 +1,6 @@
 {
   "name": "create-nounish-app",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "A package to create a Nounish app",
   "main": "dist/index.js",
   "bin": {
