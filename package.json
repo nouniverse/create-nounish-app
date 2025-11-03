@@ -1,6 +1,6 @@
 {
   "name": "create-nounish-app",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "description": "A package to create a Nounish app",
   "main": "dist/index.js",
   "bin": {
@@ -24,11 +24,11 @@
   "author": "Milad Nekofar <milad@nekofar.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "commander": "11.1.0"
+    "commander": "14.0.2"
   },
   "devDependencies": {
-    "@types/node": "20.11.16",
+    "@types/node": "24.10.0",
     "ts-node": "10.9.2",
-    "typescript": "5.3.3"
+    "typescript": "5.9.3"
   }
 }
