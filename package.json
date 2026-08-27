@@ -27,7 +27,7 @@
     "commander": "15.0.0"
   },
   "devDependencies": {
-    "@types/node": "26.1.0",
+    "@types/node": "26.2.0",
     "ts-node": "10.9.2",
     "typescript": "5.9.3"
   }
