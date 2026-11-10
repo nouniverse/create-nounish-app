@@ -24,7 +24,7 @@
   "author": "Milad Nekofar <milad@nekofar.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "commander": "15.0.0"
+    "commander": "15.1.0"
   },
   "devDependencies": {
     "@types/node": "26.2.0",
